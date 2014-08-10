@@ -1,4 +1,4 @@
-bxGitlab
+bxBitBucket
 ========
 
 Web-hooks for BitBucket to integrate with Bitrix24 Self-hosted
